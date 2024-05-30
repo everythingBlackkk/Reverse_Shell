@@ -1,6 +1,6 @@
 # Remote Attacker Tool
 
-![Tool Logo](tool_logo.png)
+!
 
 This is a remote attacker tool developed in Python that allows you to establish a connection with a victim machine over a network and execute various commands remotely.
 
@@ -23,3 +23,21 @@ This is a remote attacker tool developed in Python that allows you to establish 
 
 ```bash
 git clone https://github.com/your_username/remote-attacker-tool.git
+
+
+## Options
+
+
+-ip, --victim_ip: IP address of the victim machine.
+-s, --victim_port: Port number of the victim machine.
+
+
+## Commands
+upload <file_path>: Uploads a file from your machine to the victim machine.
+download <file_path>: Downloads a file from the victim machine to your machine.
+delete <file_path>: Deletes a file on the victim machine.
+exit: Closes the connection and exits the tool.
+## Warning!!
+Note: This tool is for educational purposes only. Use it responsibly and only on systems you are authorized to access.
+
+Example
