@@ -3,6 +3,10 @@
 
 This is a remote attacker tool developed in Python that allows you to establish a connection with a victim machine over a network and execute various commands remotely.
 
+## Victim Side Code
+
+I added the victim-side in this repository , so users can see the entire codebase and understand how both attacker-side and victim-side components work together.
+
 ## Features
 
 - Establishes a TCP connection with the victim machine.
