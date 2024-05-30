@@ -1,6 +1,5 @@
-# Remote Attacker Tool
-
-!
+# Reverse Shell Tool 
+! Remote Attacker Tool
 
 This is a remote attacker tool developed in Python that allows you to establish a connection with a victim machine over a network and execute various commands remotely.
 
