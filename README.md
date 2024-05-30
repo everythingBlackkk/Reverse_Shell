@@ -23,16 +23,16 @@ This is a remote attacker tool developed in Python that allows you to establish 
 
 ```bash
 git clone https://github.com/your_username/remote-attacker-tool.git
-
-
+```
 ## Options
 
-
+```bash
 -ip, --victim_ip: IP address of the victim machine.
 -s, --victim_port: Port number of the victim machine.
-
+```
 
 ## Commands
+
 upload <file_path>: Uploads a file from your machine to the victim machine.
 download <file_path>: Downloads a file from the victim machine to your machine.
 delete <file_path>: Deletes a file on the victim machine.
@@ -40,4 +40,16 @@ exit: Closes the connection and exits the tool.
 ## Warning!!
 Note: This tool is for educational purposes only. Use it responsibly and only on systems you are authorized to access.
 
-Example
+## Example
+
+```bash
+python Backdor_Att.py -ip 192.168.1.100 -s 8080
+```
+This will establish a connection with the victim machine having the IP address 192.168.1.100 on port 8080.
+
+## Author
+
+This tool is created by Yassin Abd-elrazik. You can find more of my projects on GitHub.
+
+
+
