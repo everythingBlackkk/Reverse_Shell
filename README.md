@@ -31,7 +31,7 @@ I added the victim-side in this repository , so users can see the entire codebas
 
 ```bash
 -ip, --victim_ip: IP address of the victim machine.
--s, --victim_port: Port number of the victim machine.
+-p, --victim_port: Port number of the victim machine.
 ```
 
 ## Commands
@@ -46,7 +46,7 @@ Note: This tool is for educational purposes only. Use it responsibly and only on
 ## Example
 
 ```bash
-python Backdor_Att.py -ip 192.168.1.100 -s 8080
+python Backdor_Att.py -ip 192.168.1.100 -p 8080
 ```
 This will establish a connection with the victim machine having the IP address 192.168.1.100 on port 8080.
 
