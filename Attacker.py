@@ -16,7 +16,7 @@ text = """
 ╚═════╝░╚══════╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝
     """
 print(Fore.LIGHTRED_EX + text)
-print(Fore.LIGHTYELLOW_EX + "    # Site Eye , Coded By Yassin Abd-elrazik ")
+print(Fore.LIGHTYELLOW_EX + "    # everythingBlackkk , Coded By Yassin Abd-elrazik ")
 print(Fore.LIGHTYELLOW_EX + "          GitHub : everythingBlackkk")
 
 def run_attacker(victim_ip, victim_port):
