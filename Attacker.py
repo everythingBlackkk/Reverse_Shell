@@ -97,7 +97,7 @@ def run_attacker(victim_ip, victim_port):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Remote Attacker Tool")
     parser.add_argument("-ip", "--victim_ip", type=str, help="IP address of the victim")
-    parser.add_argument("-s", "--victim_port", type=int, help="Port number of the victim")
+    parser.add_argument("-p", "--victim_port", type=int, help="Port number of the victim")
     args = parser.parse_args()
 
     if not args.victim_ip or not args.victim_port:
