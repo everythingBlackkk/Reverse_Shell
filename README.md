@@ -28,7 +28,7 @@ I added the victim-side in this repository , so users can see the entire codebas
 1. Clone the repository to your local machine:
 
 ```bash
-[git clone ](https://github.com/everythingBlackkk/Reverse_Shell.git)
+git clone https://github.com/everythingBlackkk/Reverse_Shell.git
 ```
 ## Options
 
