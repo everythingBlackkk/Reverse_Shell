@@ -1,6 +1,4 @@
 # Reverse Shell Tool 
-! Remote Attacker Tool
-
 # Alert!
 # This tool is for the purpose of understanding how the ReverseShell is hacked behind the scenes and not for actual work with it
 # تهدف هذه الأداة إلى فهم كيفية اختراق ReverseShell خلف الكواليس وليس للعمل الفعلي بها.
